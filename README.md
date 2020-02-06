@@ -1,0 +1,3 @@
+# H5_IMDemo
+Andoird 用腾讯H5浏览器内核打开环信WebIM
+安卓 用腾讯浏览器内核H5页面集成环信WebIM Demo
